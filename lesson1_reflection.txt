@@ -1,2 +1,3 @@
 changes made by master locally 
 and then remotely
+that's tottally fine
